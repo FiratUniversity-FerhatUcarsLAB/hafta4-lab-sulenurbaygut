@@ -6,7 +6,7 @@
  * 
  * Bu program kullanicidan ogrenci bilgilerini alir ve
  * duzenli bir formatta ekrana yazdirir.
- * Diğer java dosyalarının başında da bu örnek formattaki gibi kısa bilgi giriniz
+ * Diğer java dosyalarının başında da bu örnek formattaki gibi kısa bilgi giriniz 
  */
 
 import java.util.Scanner;
