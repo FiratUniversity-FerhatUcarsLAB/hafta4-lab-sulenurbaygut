@@ -1,7 +1,7 @@
 ad-soyad:ŞULE NUR BAYĞUT
   ogrenci no:250541029
   tarih:05.11.2025
-  aciklama: görev 4- maas hesaplayici
+  aciklama: görev 4- maas hesaplama sistemi
   
   /*
  * Dosya: MaasHesap.java
