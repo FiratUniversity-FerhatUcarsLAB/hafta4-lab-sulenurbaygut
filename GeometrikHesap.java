@@ -1,7 +1,7 @@
 AD SOYAD: ŞULE NUR BAYĞUT 
-  ÖĞRENCİ NO: 250541029
-  TARİH:05.11.2025
-  GÖREV 2 : GEOMETRİK HESAPLAYICI
+  ogrenci no: 250541029
+  tarih:05.11.2025
+ aciklama- gorev 2 : GEOMETRİK HESAPLAYICI
   
 /*
  * Bu program bir dairenin yaricapini 4.3 cm olarak alir
