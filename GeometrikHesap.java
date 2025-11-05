@@ -1,12 +1,14 @@
 AD SOYAD: ŞULE NUR BAYĞUT 
   ÖĞRENCİ NO: 250541029
+  TARİH:05.11.2025
+  GÖREV 2 : GEOMETRİK HESAPLAYICI
   
 /*
  * Bu program bir dairenin yaricapini 4.3 cm olarak alir
  * ve daire ile kureye ait geometrik hesaplamalari yapar.
  */
 
-public class GeometrikHesaplayici {
+public class GeometrikHesap {
     public static void main(String[] args) {
         // Sabit PI degeri
         final double PI = 3.14159;
